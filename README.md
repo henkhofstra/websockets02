@@ -1,7 +1,7 @@
 # CHAT
 Je kunt dit chat programma gebruiken in een klein lokaal network. Het bouwt een locale server en gebruikers die verbonden zijn met dit netwerk kunnen in een groep een prive chat beginnen. De chat heeft ook faciliteiten om mensen te verhinderen om met pings de chat binnen te komen.
 
-# Instructions 
+# Instructies
 Clone het project
 ```
 git clone https://github.com/henkhofstra/websockets02.git
@@ -21,19 +21,19 @@ Hopelijk draait je Chat server nu.
 
 ### UI
 * Start je browswer en type `localhost:8080` 
-* Register user by giving basic details.
-* Login from the same screen.  
-`Note: Handle should be unique for every user.`
+* Registreer de gebruiker.
+* Login vanaf hetzelfde scherm.  
+`Opgelet ! Elke gebruiker moet een unieke 'handle' gebruiken.`
 
-# Why I started this
-I had seen a lot of times during local camps that people find it difficult to interact with each other may be due to hesitation. Most of the local chats that we find will be again public and the interactions become public. So I was thinking of creating an application where people can talk in public as well as private.
+# Waarom doen we dit ?
+We moeten nog wat oefenen en ideeën opdoen om de realtime website voor on ballon project inelkaar te kunnen draaien.
 
-# Few Screen Shots
-#### Login Screen
+# Scherm voorbeelden:
+#### Login Scherm
 ![login screen](https://github.com/sudheeshshetty/Chat/blob/master/screenshots/login.png "Login Page")  
-#### Confirming request 
+#### Een request bevestigen
 ![Confirming request to chat](https://github.com/sudheeshshetty/Chat/blob/master/screenshots/confirm_request.png "Confirming Request")  
-#### Online users
+#### Online gebruikers
 ![online users](https://github.com/sudheeshshetty/Chat/blob/master/screenshots/online_users.png "Online users")  
 
 #### Chatting with Friend

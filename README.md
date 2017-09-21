@@ -1,19 +1,19 @@
 # CHAT
-This is a chat application that can be used for local usage in a small network. It creates a local server and people connected to the network can do a group or private chat. The chat also gives facilites to block someone from pinging unnecessarily.
+Je kunt dit chat programma gebruiken in een klein lokaal network. Het bouwt een locale server en gebruikers die verbonden zijn met dit netwerk kunnen in een groep een prive chat beginnen. De chat heeft ook faciliteiten om mensen te verhinderen om met pings de chat binnen te komen.
 
-# Instructions to run
+# Instructions 
 Clone het project
 ```
-git clone https://github.com/henkhofstra/Chatwebsockets02.git
+git clone https://github.com/henkhofstra/websockets02.git
 ```
 
 ### DataBase - Mongo
-* Check if mongodb service is running in your machine else start the service.
+* Controleer of Mongodb draait !
 
 ### Server
-* You need to have node and npm installed in your machine.
-* open up your teminal or command prompt go to the directory `chat`
-* Do install all dependencies using  
+* Node en NPM moeten op je computer geïnstalleerd zijn.
+* Open een dos promt en ga naar map websockets02.
+* Installeer nu de applicatie: 
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`npm install`  
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`npm install -g nodemon`  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`npm start`  

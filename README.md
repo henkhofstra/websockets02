@@ -17,10 +17,10 @@ git clone https://github.com/henkhofstra/websockets02.git
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`npm install`  
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`npm install -g nodemon`  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`npm start`  
-Your server will be setup and ready for use.
+Hopelijk draait je Chat server nu.
 
 ### UI
-* Go to browser and type `localhost:8080` in place of url.
+* Start je browswer en type `localhost:8080` 
 * Register user by giving basic details.
 * Login from the same screen.  
 `Note: Handle should be unique for every user.`

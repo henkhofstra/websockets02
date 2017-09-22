@@ -39,14 +39,12 @@ We moeten nog wat oefenen en ideeën opdoen om de realtime website voor on ballo
 #### Chatting with Friend
 ![Chatting](https://github.com/sudheeshshetty/Chat/blob/master/screenshots/chat.png? "Chatting with Friend")
 
-# Upcoming
-I have lot of things to do. 
-* Bug fixes.
-* More feauters to come, like blocking a user from chatting etc.  
-* Option for saving chats in case you need it. For now it doesnot store the messages.
+# Nog te doen
+Ideeën opdoen voor ons ballon project.
+* fouten opsporen
 
-# Suggestions
-If you have any suggestions please do mail me at `sudheeshshetty@gmail.com` with subject as `chat-suggestions`
+# Suggesties
+Je kunt ook altijd vragen stellen aan `sudheeshshetty@gmail.com` met onderwerp `chat-suggestions`
 
 # Credits
 I have used some code from AdminLTE for the chat UI. The HTML and dependent CSS.  

@@ -36,7 +36,7 @@ We moeten nog wat oefenen en ideeën opdoen om de realtime website voor on ballo
 #### Online gebruikers
 ![online users](https://github.com/sudheeshshetty/Chat/blob/master/screenshots/websockets001.png "Online users")  
 
-#### Chatting with Friend
+#### Chat met een vriend
 ![Chatting](https://github.com/sudheeshshetty/Chat/blob/master/screenshots/chat.png? "Chatting with Friend")
 
 # Nog te doen

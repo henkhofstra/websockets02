@@ -34,7 +34,7 @@ We moeten nog wat oefenen en ideeën opdoen om de realtime website voor on ballo
 #### Een request bevestigen
 ![Confirming request to chat](https://github.com/sudheeshshetty/Chat/blob/master/screenshots/confirm_request.png "Confirming Request")  
 #### Online gebruikers
-![online users](https://github.com/sudheeshshetty/Chat/blob/master/screenshots/online_users.png "Online users")  
+![online users](https://github.com/sudheeshshetty/Chat/blob/master/screenshots/websockets001.png "Online users")  
 
 #### Chatting with Friend
 ![Chatting](https://github.com/sudheeshshetty/Chat/blob/master/screenshots/chat.png? "Chatting with Friend")

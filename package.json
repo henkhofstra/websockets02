@@ -22,7 +22,7 @@
   },
   "config": {
     "server": {
-      "port": "8081"
+      "port": "8080"
     },
     "db": {
       "url": "mongodb://localhost:27017/chat"
